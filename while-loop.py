@@ -53,5 +53,5 @@ while i < len(num1):
     while nums1<= 5:
         print(nums1)
     if(nums1 == 3):
-     break
+             break
     nums1 += 1
